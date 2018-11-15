@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Armazém</string>
+    <string name="app">App</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+</resources>
